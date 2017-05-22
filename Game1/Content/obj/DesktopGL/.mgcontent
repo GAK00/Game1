@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Animation/cloud.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Animation/explosion.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Animation/mineAnimation.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Animation/popAnimation.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Animation/rainbowBullet.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Animation/shipAnimation.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Animation/solidRainbow.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Font/gameFont.spritefont</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Sound/explosion.wav</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Sound/gameMusic.mp3</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Sound/laserFire.wav</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Sound/menuMusic.mp3</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Texture/bgLayer1.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Texture/bgLayer2.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Texture/endMenu.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Texture/laser.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Texture/mainMenu.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Texture/mainbackground.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Texture/mine.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Texture/player.png</File>
+    <File>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Sound/cloudPop.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

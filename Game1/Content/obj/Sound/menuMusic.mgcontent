@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/Sound/menuMusic.mp3</SourceFile>
+  <SourceTime>2017-05-20T18:19:59.4050732-06:00</SourceTime>
+  <DestFile>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/bin/Sound/menuMusic.xnb</DestFile>
+  <DestTime>2017-05-20T18:40:10.2198429-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Geran/Documents/Visual Studio 2017/Projects/Game1/Game1/Content/bin/Sound/menuMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
